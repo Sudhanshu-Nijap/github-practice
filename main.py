@@ -15,3 +15,5 @@ def name(lname):
     return lname
 
 print(name(last_name))
+
+print("switch")
