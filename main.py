@@ -17,3 +17,4 @@ def name(lname):
 print(name(last_name))
 
 print("switch")
+print("switch2")
