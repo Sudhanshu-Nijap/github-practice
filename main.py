@@ -9,3 +9,9 @@ def name(fname):
     return fname
 
 print(name(first_name))
+
+
+def name(lname):
+    return lname
+
+print(name(last_name))
