@@ -1,6 +1,6 @@
 age = 24
-first_name = "sudhu"
-middle_name = "nitin"
+first_name = "aarya"
+middle_name = "sudhanshu"
 last_name = "nijap"
 full_name = "sudhanshu nitin nijap"
 cgpa = 8.56
