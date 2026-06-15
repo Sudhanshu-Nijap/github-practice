@@ -1,5 +1,5 @@
 age = 24
-first_name = "sudhu"
+first_name = "aarya"
 middle_name = "nitin"
 last_name = "nijap"
 full_name = "sudhanshu nitin nijap"
