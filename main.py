@@ -16,11 +16,4 @@ def name(lname):
 
 print(name(last_name))
 
-
-def name(fullname):
-    return fullname
-
-print(name(full_name))
-
-print("lets goo")
-print("gg")
+print("switch")
