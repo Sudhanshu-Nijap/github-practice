@@ -15,3 +15,9 @@ def name(lname):
     return lname
 
 print(name(last_name))
+
+
+def name(fullname):
+    return fullname
+
+print(name(full_name))
